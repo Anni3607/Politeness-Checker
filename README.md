@@ -2,6 +2,8 @@
 
 This is a basic machine learning project that detects whether a given sentence is polite or impolite. It uses traditional NLP techniques like TF-IDF for feature extraction and logistic regression for classification.
 
+Check it out : https://politeness-checker-drhkyj4prezw3xd8dy2add.streamlit.app/
+
 The project is built using scikit-learn and deployed using Streamlit for easy interaction.
 
 ### What this project does
